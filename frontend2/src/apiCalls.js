@@ -1,4 +1,4 @@
-const URL = 'https://portfoliobackend-nxwe.onrender.com';
+const URL = 'https://portfolio-backend-oobq.onrender.com';
 // added a different thing
 export const projectsLoader = async () => {
     const response = await fetch(URL + '/projects');
